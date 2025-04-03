@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
   <link rel="stylesheet" href="style.css">
-  <title>Hallo Welt</title>
 </head>
 <body>
   <div>
@@ -9,3 +8,4 @@
     <a href="#">JA</a>
   </div>
 </body>
+</html>
